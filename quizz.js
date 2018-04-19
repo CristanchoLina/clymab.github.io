@@ -3,7 +3,7 @@
 
     var quiz = [
         {
-            "question"      :   "Selon vous, quel est le moment propice pour avoir un acident :D ?",
+            "question"      :   "Selon vous, à quel moment se produissent le plus d'accidents ?",
             "image"         :   "",
             "choices"       :   [
                                     "Au crépuscule ou à l'aube",
@@ -14,7 +14,7 @@
             "explanation"   :   "C'est bizzare non ? Evidemment que non, contrairement aux idées reçues, la majorité des accidents ont lieu en journée. En effet, en 2016, 2/3 des accidents de la route se sont produit en plein jour et 4/5 par beau temps (source: fichier BAAC).",
         },
         {
-            "question"      :   "Selon vous, où ont lieu les accidents de la route ?",
+            "question"      :   "Selon vous, où ont lieu le plus d'accidents de la route ?",
             "image"         :   "",
             "choices"       :   [
                                     "Sur les routes nationales",
@@ -38,7 +38,7 @@
         },
 
         {
-             "question"      :   "Une dernière pour la fin, dans quel état se trouve les victimes des accidents?",
+             "question"      :   "Une dernière pour la fin: dans la pluspart des cas, dans quel état se trouvent les victimes des accidents?",
             "image"         :   "",
             "choices"       :   [
                                     "Ivresse avancée",
@@ -50,13 +50,13 @@
         },
 
         {
-             "question"      :   "Et non voici la toute dernière, selon vous, quel est le sexe le plus susceptible d'avoir un accident ?",
+             "question"      :   "Et non voici la toute dernière: selon vous, se sont les femmes ou les hommes qui ont le plus d'accidents?",
             "image"         :   "",
             "choices"       :   [
-                                    "Féminin",
-                                    "Masculin",
+                                    "Femmes",
+                                    "Hommes",
                                 ],
-            "correct"       :   "Masculin",
+            "correct"       :   "Hommes",
             "explanation"   :   "Haha, le meilleur toujours pour la fin. Les hommes sont hélas les fameux «chauffards au volant»... (75% en 2015, source: BAAC)",
         },
 
